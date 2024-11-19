@@ -28,9 +28,3 @@ public class LabelElement extends Element {
         return webElement.isDisplayed();
     }
 }
-
-
-
-//getText - retrieves the text value of a label
-//waitForText - waits for a specific text to be present in the label
-//verifyLabelExists - verifies if a label exists on the page

@@ -1,0 +1,9 @@
+<Person>
+  <name>John Doe</name>
+  <address>
+    <street>456 Example Ave</street>
+    <city>Boston</city>
+    <state>MA</state>
+  </address>
+  <isEmployed>false</isEmployed>
+</Person>

@@ -1,9 +1,11 @@
+package task4;
+
 public class HelloWorldThread extends Thread {
     public void run() {
         while (true) {
             System.out.println("Hello, world!");
             try {
-                Thread.sleep(1000); // Sleep for 1 second
+                Thread.sleep(1000);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
