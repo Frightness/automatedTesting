@@ -1,0 +1,14 @@
+2024-11-20 05:01:54 [main] INFO  task13.CustomExecutionListener - Test execution started.
+2024-11-20 05:01:54 [main] INFO  task13.CustomSuiteListener - Test suite started: Default Suite
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test suite started: AQA_Lessons
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test started: testMethod1
+2024-11-20 05:01:54 [main] INFO  task13.CustomInvokedMethodListener - Before invoking method: testMethod1
+2024-11-20 05:01:54 [main] INFO  task13.CustomInvokedMethodListener - After invoking method: testMethod1
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test passed: testMethod1
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test started: testMethod2
+2024-11-20 05:01:54 [main] INFO  task13.CustomInvokedMethodListener - Before invoking method: testMethod2
+2024-11-20 05:01:54 [main] INFO  task13.CustomInvokedMethodListener - After invoking method: testMethod2
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test passed: testMethod2
+2024-11-20 05:01:54 [main] INFO  task13.CustomTestListener - Test suite finished: AQA_Lessons
+2024-11-20 05:01:54 [main] INFO  task13.CustomSuiteListener - Test suite finished: Default Suite
+2024-11-20 05:01:54 [main] INFO  task13.CustomExecutionListener - Test execution finished.
