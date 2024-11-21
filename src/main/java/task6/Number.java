@@ -14,6 +14,4 @@ public class Number {
     private int value;
     @Column
     private String description;
-
-
 }
